@@ -326,6 +326,7 @@ return [
         'span_right' => 'Right',
         'span_full' => 'Full',
         'span_auto' => 'Auto',
+        'span_storm' => 'Storm',
         'empty_tab' => 'Empty tab',
         'confirm_close_tab' => 'The tab contains controls which will be deleted. Continue?',
         'tab' => 'Form tab',
