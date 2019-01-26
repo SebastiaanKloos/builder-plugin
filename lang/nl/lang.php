@@ -304,6 +304,7 @@ return [
         'span_right' => 'Rechts',
         'span_full' => 'Volledige breedte',
         'span_auto' => 'Automatisch',
+        'span_storm' => 'Storm',
         'empty_tab' => 'Leeg tabblad',
         'confirm_close_tab' => 'Het tabblad bevat elementen die verwijderd zullen worden. Doorgaan?',
         'tab' => 'Formulier tabblad',
