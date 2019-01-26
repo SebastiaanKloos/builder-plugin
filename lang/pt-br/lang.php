@@ -324,6 +324,7 @@ return [
         'span_right' => 'Direita',
         'span_full' => 'Completo',
         'span_auto' => 'Automático',
+        'span_storm' => 'Storm',
         'empty_tab' => 'Aba vazia',
         'confirm_close_tab' => 'A aba contem controles que serão deletados. Continuar?',
         'tab' => 'Aba formulário',
