@@ -303,6 +303,7 @@ return [
         'span_right' => 'راست',
         'span_full' => 'کامل',
         'span_auto' => 'خودکار',
+        'span_storm' => 'Storm',
         'empty_tab' => 'بخش خالی',
         'confirm_close_tab' => 'بخش حاوی ابزار هایی می باشد که پاک خواهند شد. آیا میخواهید ادامه دهید؟',
         'tab' => 'بخش فرم',
