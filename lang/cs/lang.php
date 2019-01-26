@@ -302,6 +302,7 @@ return [
         'span_right' => 'Doprava',
         'span_full' => 'Plná šířka',
         'span_auto' => 'Automaticky',
+        'span_storm' => 'Storm',
         'empty_tab' => 'Prázdná záložka',
         'confirm_close_tab' => 'The tab contains controls which will be deleted. Continue?',
         'tab' => 'Form tab',
